@@ -20,7 +20,7 @@
 🔹How do the total outpatient services compare for providers that offered services in both 2011 and 2012?  
   
 🔹Which providers offered services in both 2011 and 2012?  
-    
+       
 🔹Which providers offered services in 2011 but not in 2012?  
   
 🔹What is the average total payment for each provider across all four years?  
